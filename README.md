@@ -3,4 +3,4 @@ The projects in this folder discuss supervised learning models
 
 
 ## Resources
-[Supervised Learning example](https://builtin.com/data-science/linear-regression)
+[Supervised Learning Example.](https://builtin.com/data-science/linear-regression)
