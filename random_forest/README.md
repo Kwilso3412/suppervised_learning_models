@@ -1,6 +1,6 @@
 # Radnom Forest Project
 
-
+This Random Forest model is that was used to create my Create and deploy your own api app. This modle does not vectorize the x values because and is not  built to be deployed. 
 
 
 
